@@ -1,0 +1,28 @@
+_repo: Early-Greek-philosophy_67097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnet, John
+    birthdate: 1784
+    deathdate: 1868
+    gutenberg_agent_id: '25493'
+    url: http://www.gutenberg.org/2009/agents/25493
+description: ''
+gutenberg_issued: '2022-01-03'
+identifiers:
+  gutenberg: '67097'
+language: en
+pgterms:marc904: https://archive.org/details/burnetgreek00burnrich
+pgterms:marc905: 20190202082943burnet
+pgterms:marc906: '1908'
+pgterms:marc907: UK
+production_note: KD Weeks, Steven Rowland, Turgut Dincer and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: UK :A. and C. Black,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Early Greek philosophy
+url: http://www.gutenberg.org/ebooks/67097
